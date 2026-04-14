@@ -50,7 +50,22 @@ Develop an automated and scalable system for extracting geospatial features (bui
 - 🛰️ Cloud Optimized GeoTIFF (COG) → Raster outputs  
 
 ✔ OGC-compliant  
-✔ Compatible with QGIS, ArcGIS, BhuNaksha, NIC systems  
+✔ Compatible with QGIS, ArcGIS, BhuNaksha, NIC systems
+
+outputs/
+│
+├── raster/
+│   ├── orthophoto_cog.tif
+│   ├── building_mask_cog.tif
+│
+├── vector/
+│   ├── buildings.gpkg
+│   ├── roads.gpkg
+│
+├── pointcloud/
+│   ├── classified.las
+│
+└── README.md
 
 ---
 
