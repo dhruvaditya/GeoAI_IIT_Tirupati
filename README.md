@@ -84,3 +84,6 @@ pip install -r requirements.txt
 Install Geospatial Libraries:
 conda install -c conda-forge gdal rasterio geopandas fiona pdal
 pip install laspy open3d
+Google Collab Link:
+https://colab.research.google.com/drive/1LD8__SY8oxMk1s-xewexxEo5iV0A_RhE?usp=sharing
+
